@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+
+
+-名称：下载Minecraft jar
+  ＃您可以固定到确切的提交或版本。
+  ＃用途：autumnblazey / action-get-mc-jar @ ffebad0b5a274dec21f8ecf374978f0c5dc320c3
+  用途：autumnblazey/action-get-mc-jar@v1.0.1
+  和：
+    ＃要下载的Minecraft版本
+    mcversion：1.16.5＃可选，默认为最新
+    ＃要保存的文件名，默认为“ minecraft- <version> .jar”（如果未提供扩展名，则将其设置为.jar）
+    文件名：＃可选，默认为defaultnamelol
+    
