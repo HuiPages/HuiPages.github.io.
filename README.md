@@ -10,5 +10,9 @@ _请务必遵守群规_
 注:Java与基岩版互通
 
 **服务器IP地址**
+
 d3.akkocloud.com:10111（JAVA）
+
 d4.akkocloud.com:10698（基岩版）
+
+_不同的设备输入不同的[IP地址](baike.baidu.com/item/IP地址/150859)_
