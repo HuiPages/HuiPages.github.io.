@@ -1,7 +1,7 @@
 ## 欢迎来到MINECRAFT1.16.5服务器
 请在加入服务器前前进至本服务器的QQ群
 
-进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表（更新中，现有1篇）
+进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表（更新中，现有1篇）暂有bug，建议不要访问
 
 ## 网站食用指南<给懵懂的小可准备的>
 
