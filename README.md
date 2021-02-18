@@ -36,11 +36,9 @@ _不同的设备输入不同的[IP地址](baike.baidu.com/item/IP地址/150859)_
 
 小心苦力怕！小心炸药！小心死亡掉落！小心火烛！
 
-直播up主：[一个有梦想的动画师](https://space.bilibili.com/66003457/)
+### 直播up主：[一个有梦想的动画师](https://space.bilibili.com/66003457)
 
-主播的[直播间](https://live.bilibili.com/5241448)增加流量，扩充服务器
-
-困难模式！！！
+   主播的[直播间](https://live.bilibili.com/5241448)，增加流量，扩充服务器
 
 **服务器赞助**/由于本网站作者暂未获得赞助方式，所以没有赞助链接
 
@@ -50,22 +48,28 @@ _不同的设备输入不同的[IP地址](baike.baidu.com/item/IP地址/150859)_
 
 weng
 
-**盗版正版通用**
+盗版正版通用
 
-**主城潜影箱里有烟花**
+主城潜影箱里有烟花
 
 ## 关于作者
 
-**[我的b站](https://space.bilibili.com/381278404)** 求关注，仅仅一个关注就够了
+**[网站指定使用b站的账号](https://space.bilibili.com/381278404)** （McsiteBBe）
 
-邮箱/163:minecraft163989@163.com
+**邮箱/163:minecraft163989@163.com**，问题反馈（McsiteBBe）
 
-[我的QQ](http://wpa.qq.com/msgrd?v=3&uin=3287314571&site=qq&menu=yes)<求赞助注册一个域名‘大概9美刀’>3287314571
+**[联系QQ](http://wpa.qq.com/msgrd?v=3&uin=3287314571&site=qq&menu=yes)3287314571**，赞助（网站赞助）联系，问题反馈（McsiteBBe）
 
-**网站赞助名单**
+### 网站赞助名单
 
-Github:
-       [HuiPages](https://github.com/HuiPages)
-    
-网站管理员：
-HuiPages Mogerkession McsiteBBe Monert
+**主要人员Github:**
+
+       大体制作：[HuiPages](https://github.com/HuiPages)
+       
+       主管：[McsiteBBe](https://space.bilibili.com/381278404)
+       
+       维护：Mogerkession，我们不建议您使用不正当手段与他的facebook账号取得联系
+       
+**网站管理员：**
+HuiPages（Github）/（Twitter） Mogerkession（Facebook）
+
