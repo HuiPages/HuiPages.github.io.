@@ -1,6 +1,8 @@
 ## 欢迎来到MINECRAFT1.16.5服务器
 请在加入服务器前前进至本服务器的QQ群
 
+进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表（更新中，现有1篇）
+
 ## 网站食用指南<给懵懂的小可准备的>
 
 蓝色字体点击可跳跃到相应网站
@@ -26,7 +28,7 @@ d4.akkocloud.com:10698（基岩版）
 
 _不同的设备输入不同的[IP地址](baike.baidu.com/item/IP地址/150859)_
 
-纯生存服务器[1.16.5](https://minecraft-zh.gamepedia.com/Java%E7%89%881.16.5)
+**纯生存服务器[1.16.5](https://minecraft-zh.gamepedia.com/Java%E7%89%881.16.5)**
 
 没有世界保护和死亡不掉落，
 
@@ -36,7 +38,9 @@ _不同的设备输入不同的[IP地址](baike.baidu.com/item/IP地址/150859)_
 
 直播up主：[一个有梦想的动画师](https://space.bilibili.com/66003457/)
 
-[直播间](https://live.bilibili.com/5241448)
+主播的[直播间](https://live.bilibili.com/5241448)增加流量，扩充服务器
+
+困难模式！！！
 
 **服务器赞助**/由于本网站作者暂未获得赞助方式，所以没有赞助链接
 
@@ -52,7 +56,7 @@ weng
 
 ## 关于作者
 
-**[我的b站](https://space.bilibili.com/381278404)**
+**[我的b站](https://space.bilibili.com/381278404)** 求关注，仅仅一个关注就够了
 
 邮箱/163:minecraft163989@163.com
 
@@ -60,9 +64,8 @@ weng
 
 **网站赞助名单**
 
-Website
-
 Github:
        [HuiPages](https://github.com/HuiPages)
     
-网站管理员：HuiPages
+网站管理员：
+HuiPages Mogerkession McsiteBBe Monert
