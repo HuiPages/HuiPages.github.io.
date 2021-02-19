@@ -1,14 +1,15 @@
 ## 欢迎来到MINECRAFT1.16.5服务器
 请在加入服务器前前进至本服务器的QQ群
 
-进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表（更新中，现有1篇）暂有bug，建议不要访问
+进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列，暂有bug
+
+进入[下载站](https//huipages.github.io/download/)下载下列文件
 
 [1.16.5Java版本以及fabric整合包、组件下载]
 
 [1.16.2基岩版下载]
-## 网站食用指南<给懵懂的小可准备的>
 
-蓝色字体点击可跳跃到相应网站
+点击蓝色字体可进入相应网站
 
 ### 服务器群
 加入[QQ群1033774558](https://jq.qq.com/?_wv=1027&k=Ob8UOvUU)，欢迎您的到来
@@ -54,6 +55,8 @@ weng
 盗版正版通用
 
 主城潜影箱里有烟花
+
+服务器为二周目，结束后提供存档下载
 
 ## 关于作者
 
