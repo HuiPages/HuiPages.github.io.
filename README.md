@@ -74,21 +74,19 @@ _不同的设备输入不同的IP地址_
 
 <暂无消息>请联系并反馈
 
-主城潜影箱里有烟花
-
-服务器为二周目，结束后提供存档下载
+主城潜影箱里有烟花服务器为二周目，结束后提供存档下载
 
 ## 关于作者
 
-**[网站指定使用b站的账号](https://space.bilibili.com/381278404)** （McsiteBBe）
+**[网站指定使用b站的账号](https://space.bilibili.com/381278404)**
 
-**邮箱/163:minecraft163989@163.com**，问题反馈（McsiteBBe）
+（McsiteBBe）**邮箱/163:minecraft163989@163.com**，问题反馈（McsiteBBe）
 
 **[联系QQ](http://wpa.qq.com/msgrd?v=3&uin=3287314571&site=qq&menu=yes)3287314571**，赞助（网站赞助）联系，问题反馈（McsiteBBe）
 
 ### 网站赞助名单
 
-**主要人员Github:**
+**主要人员Github:
 
 大体制作：[HuiPages](https://github.com/HuiPages)
 
@@ -98,6 +96,6 @@ _不同的设备输入不同的IP地址_
 
 **网站管理员：**
 
-HuiPages（Github）/（Twitter）
-    
-Mog*****sion（Facebook）
+**HuiPages（Github）/（Twitter）**
+
+**Mog*****sion（Facebook）**
