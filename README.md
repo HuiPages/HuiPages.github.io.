@@ -5,7 +5,7 @@
 
 进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表，暂有bug
 
-进入[下载站](https//huipages.github.io/download/)下载下列文件
+进入[下载站](https://huipages.github.io/download/)下载下列文件
 
 [1.16.5Java版本以及fabric整合包、组件下载]
 
