@@ -3,6 +3,9 @@
 
 进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表（更新中，现有1篇）暂有bug，建议不要访问
 
+[1.16.5Java版本以及fabric整合包、组件下载]
+
+[1.16.2基岩版下载]
 ## 网站食用指南<给懵懂的小可准备的>
 
 蓝色字体点击可跳跃到相应网站
