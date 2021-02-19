@@ -1,6 +1,8 @@
 # 欢迎来到MINECRAFT1.16.5服务器
 请在加入服务器前前进至本服务器的QQ群
 
+[站点介绍以及游玩须知](https://huipages.github.io/rty/)
+
 进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表，暂有bug
 
 进入[下载站](https//huipages.github.io/download/)下载下列文件
@@ -59,43 +61,3 @@ _不同的设备输入不同的IP地址_
    主播的[直播间](https://live.bilibili.com/5241448)
    
    服务器赞助/由于本网站作者暂未获得赞助方式，所以没有赞助链接
-
-## 本服务器须知
-
-**JAVA**
-
-有管理权限的名单:
-
-    weng
-
-盗版正版通用
-
-**基岩版**
-
-<暂无消息>请联系并反馈
-
-主城潜影箱里有烟花服务器为二周目，结束后提供存档下载
-
-## 关于作者
-
-**[网站指定使用b站的账号](https://space.bilibili.com/381278404)**
-
-（McsiteBBe）**邮箱/163:minecraft163989@163.com**，问题反馈（McsiteBBe）
-
-**[联系QQ](http://wpa.qq.com/msgrd?v=3&uin=3287314571&site=qq&menu=yes)3287314571**，赞助（网站赞助）联系，问题反馈（McsiteBBe）
-
-### 网站赞助名单
-
-**主要人员Github:
-
-大体制作：[HuiPages](https://github.com/HuiPages)
-
-主管：[McsiteBBe](https://space.bilibili.com/381278404)
-
-维护：Mog*****sion
-
-**网站管理员：**
-
-**HuiPages（Github）/（Twitter）**
-
-**Mog*****sion（Facebook）**
