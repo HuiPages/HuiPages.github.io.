@@ -1,7 +1,7 @@
-## 欢迎来到MINECRAFT1.16.5服务器
+# 欢迎来到MINECRAFT1.16.5服务器
 请在加入服务器前前进至本服务器的QQ群
 
-进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列，暂有bug
+进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表，暂有bug
 
 进入[下载站](https//huipages.github.io/download/)下载下列文件
 
@@ -14,6 +14,10 @@
 ### 服务器群
 加入[QQ群1033774558](https://jq.qq.com/?_wv=1027&k=Ob8UOvUU)，欢迎您的到来
 
+群内可闲聊、发布求救等等
+
+请勿发布禁18岁内容
+
 _请务必遵守群规_ 
 ### MINECRAFT服务器1.16.5JAVA及基岩版版本服务器介绍
 注:Java与基岩版互通
@@ -24,39 +28,55 @@ d3.akkocloud.com:10111（JAVA）
 
 d4.akkocloud.com:10698（基岩版）
 
+_不同的设备输入不同的IP地址_
+
+**其他**
+
 电信线路:dx3.minecraft.moe:10111
 
 联通线路:lt3.minecraft.moe:10111
 
 移动线路:yd3.minecraft.moe:10111
 
-_不同的设备输入不同的[IP地址](baike.baidu.com/item/IP地址/150859)_
+**纯生存服务器版本1.16.5**，关于[1.16.5](https://minecraft-zh.gamepedia.com/Java%E7%89%881.16.5)wiki
 
-**纯生存服务器[1.16.5](https://minecraft-zh.gamepedia.com/Java%E7%89%881.16.5)**
+服务器为了秉持纯生存、无插件的原则，关闭了死亡不掉落，取消了插件
 
 没有世界保护和死亡不掉落，
 
-所以
+所以如果要生存下去，更好发展
+
+注意
 
 小心苦力怕！小心炸药！小心死亡掉落！小心火烛！
 
-### 直播up主：[一个有梦想的动画师](https://space.bilibili.com/66003457)
+以免一瞬回到解放前
 
-   主播的[直播间](https://live.bilibili.com/5241448)，增加流量，扩充服务器
+## 关于直播宣传
 
-**服务器赞助**/由于本网站作者暂未获得赞助方式，所以没有赞助链接
+   直播up主：一个有梦想的动画师
 
-## 本服务器JAVA版本须知
+   主播的[直播间](https://live.bilibili.com/5241448)
+   
+   服务器赞助/由于本网站作者暂未获得赞助方式，所以没有赞助链接
 
-**有管理权限的名单:**
+## 本服务器须知
 
-weng
+**JAVA**
+
+有管理权限的名单:
+
+    weng
 
 盗版正版通用
 
-主城潜影箱里有烟花
+**基岩版**
 
-服务器为二周目，结束后提供存档下载
+<暂无消息>
+
+    主城潜影箱里有烟花
+
+    服务器为二周目，结束后提供存档下载
 
 ## 关于作者
 
@@ -74,8 +94,11 @@ weng
        
    主管：[McsiteBBe](https://space.bilibili.com/381278404)
        
-   维护：Mog*****sion，我们不建议您使用不正当手段与他的facebook账号取得联系
+   维护：Mog*****sion
        
 **网站管理员：**
-HuiPages（Github）/（Twitter） Mog*****sion（Facebook）
+
+    HuiPages（Github）/（Twitter）
+    
+    Mog*****sion（Facebook）
 
