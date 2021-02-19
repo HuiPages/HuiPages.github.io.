@@ -1,7 +1,7 @@
 # 欢迎来到MINECRAFT1.16.5服务器
 请在加入服务器前前进至本服务器的QQ群
 
-[站点介绍以及游玩须知](https://huipages.github.io/rty/)
+[站点介绍以及游玩须知](https://huipages.github.io/SERVERHelp/.)
 
 进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表，暂有bug
 
