@@ -67,12 +67,12 @@ weng
 
 **主要人员Github:**
 
-       大体制作：[HuiPages](https://github.com/HuiPages)
+   大体制作：[HuiPages](https://github.com/HuiPages)
        
-       主管：[McsiteBBe](https://space.bilibili.com/381278404)
+   主管：[McsiteBBe](https://space.bilibili.com/381278404)
        
-       维护：Mogerkession，我们不建议您使用不正当手段与他的facebook账号取得联系
+   维护：Mog*****sion，我们不建议您使用不正当手段与他的facebook账号取得联系
        
 **网站管理员：**
-HuiPages（Github）/（Twitter） Mogerkession（Facebook）
+HuiPages（Github）/（Twitter） Mog*****sion（Facebook）
 
