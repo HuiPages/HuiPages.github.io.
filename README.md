@@ -3,7 +3,7 @@
 
 [站点介绍以及游玩须知](https://huipages.github.io/SERVERHelp/.)
 
-进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表，暂有bug
+进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表
 
 进入[下载站](https://huipages.github.io/download/)下载下列文件
 
