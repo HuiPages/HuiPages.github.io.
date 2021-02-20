@@ -61,3 +61,5 @@ _不同的设备输入不同的IP地址_
    主播的[直播间](https://live.bilibili.com/5241448)
    
    服务器赞助/由于本网站作者暂未获得赞助方式，所以没有赞助链接
+
+**[返回主页](https://huipages.github.io/MinecraftSV/)**
